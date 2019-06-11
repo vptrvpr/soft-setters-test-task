@@ -1,0 +1,17 @@
+/.idea/workspace.xml
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/public/images/products/*
+composer.phar
+package-lock.json
+package.json
+.htaccess
